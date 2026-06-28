@@ -1,2 +1,3 @@
 # parser-crawler-345931
-Internal helper
+
+Experimental module — not yet stable.
